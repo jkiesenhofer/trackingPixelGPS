@@ -36,8 +36,8 @@ for i in range(0, len(X)):
 df.insert(0, "IPV4", pd.Series([5, 6], index=[1, 2]))
 #print(df[1:10])
 # creating the dataframe
-df = pd.DataFrame({"IPV4": ['213.162.73.172', '93.37.250.70', '65.183.218.91','65.183.218.92', '65.183.218.92'],
-                   "City": ['Vienna', 'Milano', 'Dusseldorf','Linz', 'Milano'],
+df = pd.DataFrame({"IPV4": ['213.162.73.172', '109.199.115.41', '93.37.250.70','65.183.218.91', '65.183.218.92'],
+                   "City": ['Vienna', 'Dusseldorf', 'Milano','Linz', 'Milano'],
                    "ID": ['NaN', 'NaN', 'NaN', 'NaN', 'NaN'],
                    "Latitude": [140000, 300000, 600000, 47.0257, 600000]})
 
