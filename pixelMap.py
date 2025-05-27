@@ -22,10 +22,10 @@ for i in range(0, lines+1):
     b[i]=a
 b=(['213.162.73.172']+b[0:lines])*5
 cities=['Vienna', 'Dusseldorf', 'Milan','Linz', 'Bothell','Mandaluyong City','Bothell']*5
-IDs=[13.6500, 6.7762, 9.1885, -122.2054, -122.2054, 121.0410, -122.2054]*5
+IDs=[13.6500, 51.2215, 9.1885, -122.2054, -122.2054, 121.0410, -122.2054]*5
 #for i in range(0,len(IDs)):
 IDs[0]=48.0167
-pixel=[13.6500, 6.7762, 9.1885, -122.2054, -122.2054, 121.0410, -122.2054]*5
+pixel=[13.6500, 51.2215, 9.1885, -122.2054, -122.2054, 121.0410, -122.2054]*5
 for i in range(0,len(pixel)):
     #pixel[i]='47.0257'
     pixel[i]=get_geocoordinates(b[i])[1]
