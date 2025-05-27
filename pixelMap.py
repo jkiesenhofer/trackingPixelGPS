@@ -21,22 +21,22 @@ for i in range(0, lines+1):
     a=str(b[i]).split("'")[1]
     b[i]=a
 b=(['213.162.73.172']+b[0:lines])*5
-cities=['Vienna', 'Dusseldorf', 'Milano','Linz', 'Milano','lines','x']*5
-IDs=['15.5325', 'NaN', 'NaN', 'NaN', 'NaN','lines','x']*5
-for i in range(0,len(IDs)):
-    IDs[i]='15.5325'
-pixel=[47.0257, 300000, 600000, 140000, 600000,'lines','x']*5
+cities=['Vienna', 'Dusseldorf', 'Milan','Linz', 'Bothell','Mandaluyong City','Bothell']*5
+IDs=[13.6500, 6.7762, 9.1885, -122.2054, -122.2054, 121.0410, -122.2054]*5
+#for i in range(0,len(IDs)):
+IDs[0]=48.0167
+pixel=[13.6500, 6.7762, 9.1885, -122.2054, -122.2054, 121.0410, -122.2054]*5
 for i in range(0,len(pixel)):
     #pixel[i]='47.0257'
-    pixel[i]=get_geocoordinates(b[i])[0]
+    pixel[i]=get_geocoordinates(b[i])[1]
 df = pd.DataFrame({"IPV4": b,
                    "City": cities,
                    "ID": b,
-                   "Latitude": pixel})
+                   "Longitude": pixel})
 #print("Original DataFrame :", df)
 # Using assign() to add a 'Longitude' column
-new_df = df.assign(Longitude=IDs)
-#print("\nDataFrame after using assign() to add 'Longitude' column:")
+new_df = df.assign(Latitude=IDs)
+#print("\nDataFrame after using assign() to add 'Latitude' column:")
 print(new_df)
 html_table = new_df.to_html()
 #print(html_table)
