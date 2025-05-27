@@ -19,7 +19,8 @@ geokoordinaten1 = get_geocoordinates(ip_adresse1)
 for i in range(0, 5):
     a=str(b[i]).split("'")[1]
     b[i]=a
-#print(b)
+b=['213.162.73.172']+b[0:4]
+print(b)
 # creating the dataframe
 df = pd.DataFrame({"IPV4": ['213.162.73.172', '109.199.115.41', '93.37.250.70','65.183.218.91', '65.183.218.92'],
                    "City": ['Vienna', 'Dusseldorf', 'Milano','Linz', 'Milano'],
