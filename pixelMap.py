@@ -23,9 +23,9 @@ for i in range(0, lines+1):
 b=(['213.162.73.172']+b[0:lines])*5
 cities=['Vocklabruck','Dusseldorf','Milan','East Cathlamet','Bothell','Mandaluyong City','Bothell']*5
 bias=['1.8825°W', '0.0862°W','30.7596°W', '-168.4022°N','171.1454°N','106.4559°W','-75.621°N']*5
-IDs=[13.6500, 51.2215, 9.1885, -122.2054, -122.2054, 121.0410, -122.2054]*5
+follower=[13.6500, 51.2215, 9.1885, -122.2054, -122.2054, 121.0410, -122.2054]*5
 #for i in range(0,len(IDs)):
-IDs[0]=48.0167
+follower[0]=48.0167
 pixel=[13.6500, 51.2215, 9.1885, -122.2054, -122.2054, 121.0410, -122.2054]*5
 for i in range(0,len(pixel)):
     #pixel[i]='47.0257'
@@ -37,7 +37,7 @@ df = pd.DataFrame({"IPV4": b,
                    "Error": bias})
 #print("Original DataFrame :", df)
 # Using assign() to add a 'Longitude' column
-new_df = df.assign(Latitude=IDs)
+new_df = df.assign(Latitude=follower)
 #new_df2 = df.assign(Latitude=pixel)
 #print("\nDataFrame after using assign() to add 'Latitude' column:")
 print(new_df)
