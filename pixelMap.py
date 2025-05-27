@@ -20,10 +20,10 @@ geokoordinaten1 = get_geocoordinates(ip_adresse1)
 for i in range(0, lines+1):
     a=str(b[i]).split("'")[1]
     b[i]=a
-b=['213.162.73.172']+b[0:lines]
-cities=['Vienna', 'Dusseldorf', 'Milano','Linz', 'Milano','lines','x']
-IDs=['NaN', 'NaN', 'NaN', '15.5325', 'NaN','lines','x']
-pixel=[140000, 300000, 600000, 47.0257, 600000,'lines','x']
+b=(['213.162.73.172']+b[0:lines])*5
+cities=['Vienna', 'Dusseldorf', 'Milano','Linz', 'Milano','lines','x']*5
+IDs=['NaN', 'NaN', 'NaN', '15.5325', 'NaN','lines','x']*5
+pixel=[140000, 300000, 600000, 47.0257, 600000,'lines','x']*5
 df = pd.DataFrame({"IPV4": b,
                    "City": cities,
                    "ID": b,
