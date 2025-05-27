@@ -21,16 +21,16 @@ for i in range(0, lines+1):
     a=str(b[i]).split("'")[1]
     b[i]=a
 b=['213.162.73.172']+b[0:lines]
-#print(b)
-# creating the dataframe
-#df = pd.DataFrame({"IPV4": ['213.162.73.172', '109.199.115.41', #'93.37.250.70','65.183.218.91', '65.183.218.92','58.71.56.79'],
+cities=['Vienna', 'Dusseldorf', 'Milano','Linz', 'Milano','lines','x']
+IDs=['NaN', 'NaN', 'NaN', '15.5325', 'NaN','lines','x']
+pixel=[140000, 300000, 600000, 47.0257, 600000,'lines','x']
 df = pd.DataFrame({"IPV4": b,
-                   "City": ['Vienna', 'Dusseldorf', 'Milano','Linz', 'Milano','lines','x'],
-                   "ID": ['NaN', 'NaN', 'NaN', '15.5325', 'NaN','lines','x'],
-                   "Latitude": [140000, 300000, 600000, 47.0257, 600000,'lines','x']})
+                   "City": cities,
+                   "ID": b,
+                   "Latitude": pixel})
 #print("Original DataFrame :", df)
 # Using assign() to add a 'Longitude' column
-new_df = df.assign(Longitude=b)
+new_df = df.assign(Longitude=IDs)
 #print("\nDataFrame after using assign() to add 'Longitude' column:")
 print(new_df)
 html_table = new_df.to_html()
