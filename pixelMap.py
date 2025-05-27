@@ -39,6 +39,9 @@ df = pd.DataFrame({"IPV4": ['213.162.73.172', '109.199.115.41', '93.37.250.70','
                    "City": ['Vienna', 'Dusseldorf', 'Milano','Linz', 'Milano'],
                    "ID": ['NaN', 'NaN', 'NaN', 'NaN', 'NaN'],
                    "Latitude": [140000, 300000, 600000, 47.0257, 600000]})
+
+#print("Original DataFrame :", df)
+
 # Using assign() to add a 'Longitude' column
 new_df = df.assign(Longitude=[40000, 20000, 30000, 15.5325, 200000])
 #print("\nDataFrame after using assign() to add 'Longitude' column:")
