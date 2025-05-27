@@ -30,3 +30,5 @@ for i in range(0, len(X)):
     k = get_geocoordinates(n)
     d=X[i]
     #print(d)
+html_table = df.to_html()
+print(html_table)
