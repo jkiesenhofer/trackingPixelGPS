@@ -8,7 +8,7 @@ import ipaddress as ip
 df = pd.read_csv('IParray.csv')
 array = df.values.tolist()
 
-a0=str(['213.162.73.172']).split("'")[1]
+a0=str(['104.18.187.229']).split("'")[1]
 
 a=array[0:(30)][:]
 print(a0)
