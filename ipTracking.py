@@ -1,7 +1,3 @@
-"""----------------------------------------------------------------------------
-   Copyright (C) 2023 Lambda Optoelectronic Marketing Technologies e.U.
-----------------------------------------------------------------------------"""
-
 import pandas as pd
 import ipaddress as ip
 
