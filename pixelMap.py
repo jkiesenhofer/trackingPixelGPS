@@ -20,7 +20,7 @@ geokoordinaten1 = get_geocoordinates(ip_adresse1)
 for i in range(0, lines+1):
     a=str(b[i]).split("'")[1]
     b[i]=a
-b=(['213.162.73.172']+b[0:lines])*5
+b=(['46.125.249.111']+b[0:lines])*5
 cities=['Vocklabruck','Dusseldorf','Milan','East Cathlamet','Bothell','Mandaluyong City','Bothell']*5
 bias=['1.8825°W', '0.0862°W','30.7596°W', '-168.4022°N','171.1454°N','106.4559°W','-75.621°N']*5
 follower=[13.6500, 51.2215, 9.1885, -122.2054, -122.2054, 121.0410, -122.2054]*5
