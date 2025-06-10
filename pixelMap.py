@@ -45,3 +45,4 @@ html_table = new_df.to_html()
 #print(html_table)
 with open("plot.html", "a") as f:
   f.write(html_table)
+print(geokoordinaten1)
