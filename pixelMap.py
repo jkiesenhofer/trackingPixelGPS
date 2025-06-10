@@ -15,7 +15,7 @@ def get_geocoordinates(ip_adresse):
         return data["lat"], data["lon"]
     else:
         return None
-ip_adresse1 = "213.162.73.172"  # Beispiel-IP-Adresse Vienna, Austria
+ip_adresse1 = "46.125.249.111"  # Beispiel-IP-Adresse Vienna, Austria
 geokoordinaten1 = get_geocoordinates(ip_adresse1)
 for i in range(0, lines+1):
     a=str(b[i]).split("'")[1]
