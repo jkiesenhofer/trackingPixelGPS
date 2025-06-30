@@ -1,0 +1,19 @@
+parameter   pdp2πL=2mv2               variable  value              unit    
+0010        top speed                 v                     1200    m/s    
+0090        maximum pressure          p                    14,40   N/mm2   
+0100        diameter expansion        dmax                  8,42    mm     
+0110        initial diameter ⌀8.22H7  dt2                   8,22    mm     
+0190        press-fit length          L                     8,10    mm     
+0193        effective diameter ⌀8.22k6dp                    6,90    mm     
+0200        cartridge mass            m                    10,70     g     
+0210        drag coefficient          cw        =(D3*D7^2*PI()*D     -     
+0211        upper dimension           ES                   0,015    mm     
+0212        lower dimension           EI                   0,000    mm     
+0213        upper dimension           es                   0,010    mm     
+0214        lower dimension           ei                   1,000    mm     
+0215        maximum play              cmax                 0,014    mm     
+0216        maximum oversize          imax                 0,010    mm     
+0217        largest hole              Bmax                 8,235    mm     
+0218        smallest hole             Bmin                 8,220    mm     
+0219        largest shaft             Wmax                 8,230    mm     
+0220        smallest shaft            Wmin                 8,221    mm     
