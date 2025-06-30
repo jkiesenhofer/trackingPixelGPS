@@ -2,11 +2,11 @@ parameter   pdp2πL=2mv2               variable  value              unit
 0010        top speed                 v                     1200    m/s    
 0090        maximum pressure          p                    14,40   N/mm2   
 0100        diameter expansion        dmax                  8,42    mm     
-0110        initial diameter ⌀8.22H7  dt2                   8,22    mm     
+0110        initial diameter H7       dt2                   8,22    mm     
 0190        press-fit length          L                     8,10    mm     
-0193        effective diameter ⌀8.22k6dp                    6,90    mm     
+0193        effective diameter k6     dp                    6,90    mm     
 0200        cartridge mass            m                    10,70     g     
-0210        drag coefficient          cw        =(D3*D7^2*PI()*D     -     
+0210        drag coefficient          cw          0,000000566134     -     
 0211        upper dimension           ES                   0,015    mm     
 0212        lower dimension           EI                   0,000    mm     
 0213        upper dimension           es                   0,010    mm     
