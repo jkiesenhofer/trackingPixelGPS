@@ -6,7 +6,7 @@ parameter   pdp²πL=2mv²               variable  value              unit
 0190        press-fit length          L                     8,10    mm     
 0193        effective diameter k6     dp                    6,90    mm     
 0200        cartridge mass            m                    10,70     g     
-0210        drag coefficient          cw          0,000000566134     -     
+0210        drag coefficient          cw          0,069893096373     -     
 0211        upper dimension           ES                   0,015    mm     
 0212        lower dimension           EI                   0,000    mm     
 0213        upper dimension           es                   0,010    mm     
