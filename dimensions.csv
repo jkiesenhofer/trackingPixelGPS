@@ -1,4 +1,4 @@
-parameter   pdp2πL=2mv2               variable  value              unit    
+parameter   pdp²πL=2mv²               variable  value              unit    
 0010        top speed                 v                     1200    m/s    
 0090        maximum pressure          p                    14,40   N/mm2   
 0100        diameter expansion        dmax                  8,42    mm     
