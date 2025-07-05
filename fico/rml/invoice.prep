@@ -66,7 +66,7 @@
 </stylesheet>
 
 <story>
-<para style="title">Invoice</para>
+<para style="title">Delivery note</para>
 <blockTable style="detailtable" colWidths="60%, 40%">
     <tr>
         <td leftPadding="0">
