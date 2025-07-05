@@ -18,30 +18,30 @@
         
         {
             "description": "SU7 MAX",
-            "price": "\u20AC55997.44",
+            "price": "\u002455997.44",
             "quantity": 1,
-            "net": "\u20AC55997.44",
+            "net": "\u002455997.44",
             "vat": "20%",
-            "gross": "\u20AC69996.80"
+            "gross": "\u002469996.80"
 
         },
         {
             "description": "Xiaguang purple",
-            "price": "\u20AC975.00",
+            "price": "\u0024975.00",
             "quantity": 1,
-            "net": "\u20AC975.00",
+            "net": "\u0024975.00",
             "vat": "20%",
-            "gross": "\u20AC1170.00"
+            "gross": "\u00241170.00"
 
         },
         {
             
             "description": "Black leather Interior",
-            "price": "\u20AC420.00",
+            "price": "\u0024420.00",
             "quantity": 1,
-            "net": "\u20AC420.00",
+            "net": "\u0024420.00",
             "vat": "20%",
-            "gross": "\u20AC504.00"
+            "gross": "\u0024504.00"
 
         }
     ]
