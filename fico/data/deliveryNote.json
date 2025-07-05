@@ -11,7 +11,7 @@
     "subtotal": "\u002457392.44",
     "vat_total": "\u002414278.36",
     "total_price": "\u002471670.80",
-    "important_text": "This invoice is due within 30 days",
+    "important_text": "The invoice is due within 30 days",
     "items": ["one","two","three"],
     "last_name": "Liu",
     "orders": [
