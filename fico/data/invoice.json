@@ -8,9 +8,9 @@
     "terms": "30 days",
     "vat_number": "58641949644",
     "purchase_id": "RPLUS 10k pages",
-    "subtotal": "\u00a357392.44",
-    "vat_total": "\u00a314278.36",
-    "total_price": "\u00a371670.80",
+    "subtotal": "\u20AC57392.44",
+    "vat_total": "\u20AC14278.36",
+    "total_price": "\u20AC71670.80",
     "important_text": "This invoice is due within 30 days",
     "items": ["one","two","three"],
     "last_name": "Liu",
@@ -18,30 +18,30 @@
         
         {
             "description": "SU7 MAX",
-            "price": "\u00a355997.44",
+            "price": "\u20AC55997.44",
             "quantity": 1,
-            "net": "\u00a355997.44",
+            "net": "\u20AC55997.44",
             "vat": "20%",
-            "gross": "\u00a369996.80"
+            "gross": "\u20AC69996.80"
 
         },
         {
             "description": "Xiaguang purple",
-            "price": "\u00a3975.00",
+            "price": "\u20AC975.00",
             "quantity": 1,
-            "net": "\u00a3975.00",
+            "net": "\u20AC975.00",
             "vat": "20%",
-            "gross": "\u00a31170.00"
+            "gross": "\u20AC1170.00"
 
         },
         {
             
             "description": "Black leather Interior",
-            "price": "\u00a3420.00",
+            "price": "\u20AC420.00",
             "quantity": 1,
-            "net": "\u00a3420.00",
+            "net": "\u20AC420.00",
             "vat": "20%",
-            "gross": "\u00a3504.00"
+            "gross": "\u20AC504.00"
 
         }
     ]
