@@ -21,9 +21,3 @@ def xml_to_csv(xml_file, csv_file):
             writer.writerows(data)
 
 xml_to_csv('IParray.xml', 'output.csv')
-
-def kuckuckskinder(n):
-    if n <= 1:
-        return 1
-    else:
-        return kuckuckskinder(n-1) + kuckuckskinder(n-2)
