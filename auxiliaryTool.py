@@ -19,3 +19,5 @@ def xml_to_csv(xml_file, csv_file):
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
             writer.writerows(data)
+
+xml_to_csv('IParray.xml', 'output.csv')
