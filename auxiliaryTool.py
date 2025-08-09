@@ -20,4 +20,4 @@ def xml_to_csv(xml_file, csv_file):
             writer.writeheader()
             writer.writerows(data)
 
-xml_to_csv('IParray.xml', 'output.csv')
+xml_to_csv('SAPrules.xml', 'output.csv')
