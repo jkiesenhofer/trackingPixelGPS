@@ -8,9 +8,9 @@
     "terms": "30 days",
     "vat_number": "58641949644",
     "purchase_id": "RPLUS 10k pages",
-    "subtotal": "\u002460313.68",
-    "vat_total": "\u002415078.42",
-    "total_price": "\u002475392.10",
+    "subtotal": "\u002464988.00",
+    "vat_total": "\u002416247.00",
+    "total_price": "\u002481235.00",
     "important_text": "The invoice is due within 30 days",
     "items": ["one","two","three"],
     "last_name": "Liu",
@@ -19,7 +19,7 @@
         {
             "description": "SU7 Ultra",
             "price": "\u002458974.48",
-            "quantity": "2206 kg",
+            "quantity": "2360 kg",
             "net": "\u002458974.48",
             "vat": "20%",
             "gross": "\u002473718.10"
@@ -42,6 +42,16 @@
             "net": "\u0024420.00",
             "vat": "20%",
             "gross": "\u0024504.00"
+
+        },
+        {
+            
+            "description": "Carbon Fiber Dual Airflow Hood",
+            "price": "\u00244674.33",
+            "quantity": 1,
+            "net": "\u00244674.33",
+            "vat": "20%",
+            "gross": "\u00245842.91"
 
         }
     ]
