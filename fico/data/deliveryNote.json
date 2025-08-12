@@ -8,25 +8,25 @@
     "terms": "30 days",
     "vat_number": "58641949644",
     "purchase_id": "RPLUS 10k pages",
-    "subtotal": "\u002457392.44",
-    "vat_total": "\u002414278.36",
-    "total_price": "\u002471670.80",
+    "subtotal": "\u002460313.68",
+    "vat_total": "\u002415078.42",
+    "total_price": "\u002475392.10",
     "important_text": "The invoice is due within 30 days",
     "items": ["one","two","three"],
     "last_name": "Liu",
     "orders": [
         
         {
-            "description": "SU7 MAX",
-            "price": "\u002455997.44",
-            "quantity": "2205 kg",
-            "net": "\u002455997.44",
+            "description": "SU7 Ultra",
+            "price": "\u002458974.48",
+            "quantity": "2206 kg",
+            "net": "\u002458974.48",
             "vat": "20%",
-            "gross": "\u002469996.80"
+            "gross": "\u002473718.10"
 
         },
         {
-            "description": "Xiaguang purple",
+            "description": "Misty Purple",
             "price": "\u0024975.00",
             "quantity": 1,
             "net": "\u0024975.00",
