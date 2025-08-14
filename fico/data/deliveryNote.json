@@ -3,17 +3,17 @@
     "customer_name": "Xiaomi Motors",
     "address": "Prinses Beatrixlaan 582/5, Den Haag",
     "country_name": "Netherlands",
-    "manager": "UNIQA Leasing GmbH",
+    "manager": "Raiffeisen-Leasing GmbH",
     "issue_date": "9 June 2025",
     "terms": "30 days",
-    "vat_number": "58641949644",
-    "purchase_id": "RPLUS 10k pages",
+    "vat_number": "ATU16090307",
+    "purchase_id": "S02707549",
     "subtotal": "\u002464988.00",
     "vat_total": "\u002416247.00",
     "total_price": "\u002481235.00",
     "important_text": "The invoice is due within 30 days",
     "items": ["one","two","three"],
-    "last_name": "Liu",
+    "last_name": "empty",
     "orders": [
         
         {
