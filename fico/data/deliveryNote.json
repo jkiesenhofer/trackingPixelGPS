@@ -8,9 +8,9 @@
     "terms": "30 days",
     "vat_number": "ATU16090307",
     "purchase_id": "S02707549",
-    "subtotal": "\u002464988.00",
-    "vat_total": "\u002416247.00",
-    "total_price": "\u002481235.00",
+    "subtotal": "\u0024 64988.00",
+    "vat_total": "\u0024 16247.00",
+    "total_price": "\u0024 81235.00",
     "important_text": "The invoice is due within 30 days",
     "items": ["one","two","three"],
     "last_name": "empty",
@@ -18,40 +18,40 @@
         
         {
             "description": "SU7 Ultra",
-            "price": "\u002458974.48",
+            "price": "\u0024 58974.48",
             "quantity": "2358.7 kg",
-            "net": "\u002458974.48",
+            "net": "\u0024 58974.48",
             "vat": "20%",
-            "gross": "\u002473718.10"
+            "gross": "\u0024 73718.10"
 
         },
         {
             "description": "Misty Purple",
-            "price": "\u0024975.00",
+            "price": "\u0024 975.00",
             "quantity": 1,
-            "net": "\u0024975.00",
+            "net": "\u0024 975.00",
             "vat": "20%",
-            "gross": "\u00241170.00"
+            "gross": "\u0024 1170.00"
 
         },
         {
             
             "description": "Black leather Interior",
-            "price": "\u0024420.00",
+            "price": "\u0024 420.00",
             "quantity": 1,
-            "net": "\u0024420.00",
+            "net": "\u0024 420.00",
             "vat": "20%",
-            "gross": "\u0024504.00"
+            "gross": "\u0024 504.00"
 
         },
         {
             
             "description": "Carbon Fiber Dual Airflow Hood",
-            "price": "\u00244674.33",
+            "price": "\u0024 4674.33",
             "quantity": 1,
-            "net": "\u00244674.33",
+            "net": "\u0024 4674.33",
             "vat": "20%",
-            "gross": "\u00245842.91"
+            "gross": "\u0024 5842.91"
 
         }
     ]
