@@ -9,7 +9,7 @@
             <setFont name="Helvetica-Oblique" size="4"/>
             <fill color="0x00337f"/>
             <fill color="0x1E4C9C"/>
-            <drawString x="57" y="30">VAT Reg No.:&nbsp;&nbsp;&nbsp;GR1234567890</drawString>
+            <drawString x="57" y="30">VAT Reg No.:&nbsp;&nbsp;&nbsp;ATU16090307</drawString>
         </pageGraphics>
         <!--get these right using showboundary-->
         <frame id ="main_content" x1="57" y1="260" width="481" height="490"/>
