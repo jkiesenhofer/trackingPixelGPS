@@ -141,13 +141,13 @@
 			<para  style="footer">For international payments, we need a wire transfer and the <b>sender should pay all charges so we receive the correct cleared amount.  We cannot accept cheques.</b></para>
 			<indent left="20"/>
 			<pre style="footer">
-Bank: National World Bank
-Branch: Central Business Centre, 1 Bond lane, London SW99 ABC
-Account name: London Printers Ltd.
+Bank: UniCredit Bank Austria AG
+Branch: Mooslackengasse 12, 1190 Wien
+Account name: Fluidmotion Ltd.
 Sort Code: 12-34-56
-Account no: 123456789
-IBAN:  BR12 ABC12 3456 1234 5678 12
-Swift Code: ABCDEFGH1Z
+Account no: 37602604
+IBAN:  AT67 1200 0100 0590 4957
+Swift Code: BKAUATWWXXX
 			</pre>
 			<indent left="-20"/>
 
