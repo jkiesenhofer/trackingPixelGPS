@@ -114,7 +114,7 @@
   
     <blockTable style="totalBodyTableStyle" rowHeights="20, 20, 30" colWidths="62.5%,10%,27.5%" >
         <tr>
-			<td align="LEFT"><para style="table_normal" textColor="green"><b>{{data.important_text}}</b></para></td>
+			<td align="LEFT"><para style="table_normal" textColor="orange"><b>{{data.important_text}}</b></para></td>
             <td align="RIGHT">Net Total</td>
             <td align="DECIMAL" rightPadding="15">{{data.subtotal}}</td>
         </tr>
@@ -137,7 +137,7 @@
 	<para style="normal" textColor="0x1E4C9C"><i>Payment details:</i></para>
     <spacer length="6"/>
 
-			<para style="footer">We accept payment by bank transfer or credit card. <font color="green"> Please note Credit card payments will need to done by special arrangement and can incur additional charges.</font></para>
+			<para style="footer">We accept payment by bank transfer or credit card. <font color="orange"> Please note Credit card payments will need to done by special arrangement and can incur additional charges.</font></para>
 			<para  style="footer">For international payments, we need a wire transfer and the <b>sender should pay all charges so we receive the correct cleared amount.  We cannot accept cheques.</b></para>
 			<indent left="20"/>
 			<pre style="footer">
