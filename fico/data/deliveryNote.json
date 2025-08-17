@@ -8,9 +8,9 @@
     "terms": "30 days",
     "vat_number": "ATU36799201",
     "purchase_id": "66119B18835",
-    "subtotal": "\u0024 64988.00",
-    "vat_total": "\u0024 16247.00",
-    "total_price": "\u0024 81235.00",
+    "subtotal": "\u20ac 6000.00",
+    "vat_total": "\u20ac 1200.00",
+    "total_price": "\u20ac 7200.00",
     "important_text": "The invoice is due within 30 days",
     "items": ["one","two","three"],
     "last_name": "empty",
@@ -18,11 +18,11 @@
         
         {
             "description": "Infinity 9173",
-            "price": "\u0024 6000.00",
+            "price": "\u20ac 6000.00",
             "quantity": "2360kg",
-            "net": "\u0024 6000.00",
+            "net": "\u20ac 6000.00",
             "vat": "20%",
-            "gross": "\u0024 7200.00"
+            "gross": "\u20ac 7200.00"
 
         }
     ]
