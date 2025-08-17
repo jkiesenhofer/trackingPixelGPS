@@ -1,8 +1,8 @@
 {
     "id": "S02707549",
     "customer_name": "Delfin Wellness GmbH",
-    "address": "Welser Straße 58, 4060 Linz/Leonding",
-    "country_name": "Netherlands",
+    "address": "Welser Strasse 58, 4060 Linz/Leonding",
+    "country_name": "Austria",
     "manager": "Raiffeisen-Leasing GmbH",
     "issue_date": "9 June 2025",
     "terms": "30 days",
@@ -19,7 +19,7 @@
         {
             "description": "Infinity 9173",
             "price": "\u0024 6000.00",
-            "quantity": "2360",
+            "quantity": "2360kg",
             "net": "\u0024 6000.00",
             "vat": "20%",
             "gross": "\u0024 7200.00"
