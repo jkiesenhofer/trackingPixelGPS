@@ -1,7 +1,7 @@
 {
     "id": "S02707549",
-    "customer_name": "Xiaomi Motors",
-    "address": "Prinses Beatrixlaan 582/5, Den Haag",
+    "customer_name": "Delfin Wellness GmbH",
+    "address": "Welser Straße 58, 4060 Linz/Leonding",
     "country_name": "Netherlands",
     "manager": "Raiffeisen-Leasing GmbH",
     "issue_date": "9 June 2025",
@@ -17,41 +17,12 @@
     "orders": [
         
         {
-            "description": "SU7 Ultra",
-            "price": "\u0024 58974.48",
-            "quantity": "2358.7kg",
-            "net": "\u0024 58974.48",
+            "description": "Infinity 9173",
+            "price": "\u0024 6000.00",
+            "quantity": "2360",
+            "net": "\u0024 6000.00",
             "vat": "20%",
-            "gross": "\u0024 73718.10"
-
-        },
-        {
-            "description": "Misty Purple",
-            "price": "\u0024 975.00",
-            "quantity": 1,
-            "net": "\u0024 975.00",
-            "vat": "20%",
-            "gross": "\u0024 1170.00"
-
-        },
-        {
-            
-            "description": "Black leather Interior",
-            "price": "\u0024 420.00",
-            "quantity": 1,
-            "net": "\u0024 420.00",
-            "vat": "20%",
-            "gross": "\u0024 504.00"
-
-        },
-        {
-            
-            "description": "Carbon Fiber Dual Airflow Hood",
-            "price": "\u0024 4674.33",
-            "quantity": 1,
-            "net": "\u0024 4674.33",
-            "vat": "20%",
-            "gross": "\u0024 5842.91"
+            "gross": "\u0024 7200.00"
 
         }
     ]
