@@ -17,8 +17,8 @@ for k in range(0,2):
 dictClient = lambda a:a+1
 
 q = {
-  "phone": "blackberry",
-  "model": "classic",
+  "company": "fluidmotion",
+  "type": "dict",
   "domain": str(a0)
 }
 
