@@ -1,8 +1,9 @@
 import pandas as pd
 import ipaddress as ip
 
-df = pd.read_csv('IParray.csv')
-array = df.values.tolist()
+#df = pd.read_csv('IParray.csv')
+#array = df.values.tolist()
+array = ["company", "type", "domain"]
 a0=list(str(['104.18::183.229']).split("::")[1])
 
 b=array[0:(30)][:]
