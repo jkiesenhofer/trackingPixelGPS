@@ -14,12 +14,12 @@ for k in range(0,2):
     a0[k]=list("".join(b))
     #c=int(ip.IPv4Address(a0[k]))
     print(a0)
-q = lambda a:a+1
+dictClient = lambda a:a+1
 
-dictClient = {
+q = {
   "phone": "blackberry",
   "model": "classic",
-  "domain": "kiesenhofer.at"
+  "domain": str(a0)
 }
 
 print(q)
