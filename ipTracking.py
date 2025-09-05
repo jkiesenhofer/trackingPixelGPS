@@ -16,4 +16,10 @@ for k in range(0,2):
     print(a0)
 q = lambda a:a+1
 
+dictClient = {
+  "phone": "blackberry",
+  "model": "classic",
+  "domain": "kiesenhofer.at"
+}
+
 print(q)
