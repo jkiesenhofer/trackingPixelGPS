@@ -19,8 +19,9 @@ dictClient = lambda a:a+1
 
 q = {
   "company": "fluidmotion",
-  "type": "dict",
-  "domain": str(a0)
+  "type": str(a0),
+  "domain": "kiesenhofer.at"
 }
 
 print(q)
+
