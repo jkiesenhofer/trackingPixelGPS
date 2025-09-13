@@ -1,5 +1,5 @@
 # lambda
-`~ python3 .\gen_invoice.py .\data\deliveryNote.json`
+`~$ python3 gen_invoice.py .\data\deliveryNote.json`
 
 License
 
