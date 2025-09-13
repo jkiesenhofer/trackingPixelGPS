@@ -1,6 +1,7 @@
 # lambda
 `fico> python3 .\gen_invoice.py .\data\deliveryNote.json`
 
+
 License
 
 Copyright (c) 2012-2025 Fluidmotion
