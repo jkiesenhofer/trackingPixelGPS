@@ -1,6 +1,6 @@
 # lambda
-install: `https://docs.reportlab.com`
-run: `$ python3 gen_invoice.py .\data\deliveryNote.json`
+`pip install rlextra -i https://www.reportlab.com/pypi/`
+`$ python3 gen_invoice.py .\data\deliveryNote.json`
 
 License
 
