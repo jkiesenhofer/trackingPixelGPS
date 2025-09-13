@@ -1,7 +1,7 @@
 # lambda
 `pip install rlextra -i https://www.reportlab.com/pypi/`
 
-License
+MIT License
 
 Copyright (c) 2012-2025 Fluidmotion
 
