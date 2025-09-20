@@ -2,7 +2,7 @@
 #-------------------------------------------------------------------------------
 #                            |
 #         FM-Pool            |  Fluidmotion: Thermoelectric Control Engineering
-#          9173              |  www.fluidmotion.nl
+#          9173              |  www.optaphy.com
 #                            |
 #-------------------------------------------------------------------------------
 #   Copyright (C) 2024 Fluidmotion B.V.
