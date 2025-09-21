@@ -18,25 +18,25 @@ int main() {
     // Writing print statement to print
     printf("~");
     
-    float abd;  // agency business document
-    float cass; // cargo account settlement system
-    float crm;  // customer relationship management
-    float dtr;  // delivery-based transportation requirement
-    float ecc;  // erp core component
-    float fa;   // freight agreement
-    float fb;   // freight booking
-    float fo;   // freight order
-    float fsd;  // freight settlement document
-    float fu;   // freight unit
-    float fubr; // freight unit building rule
-    float fwo;  // forwarding order
-    float fwsd; // forwarding settlement document
-    float lsp;  // logistics service provider
-    float otr;  // order-based transportation requirement
-    float pi;   // process integration
-    float ses;  // service entry sheet
-    float trq;  // transportation requirement
-    float vsr;  // vehicle scheduling and routing
+    const float abd;  // agency business document
+    const float cass; // cargo account settlement system
+    const float crm;  // customer relationship management
+    const float dtr;  // delivery-based transportation requirement
+    const float ecc;  // erp core component
+    const float fa;   // freight agreement
+    const float fb;   // freight booking
+    const float fo;   // freight order
+    const float fsd;  // freight settlement document
+    const float fu;   // freight unit
+    const float fubr; // freight unit building rule
+    const float fwo;  // forwarding order
+    const float fwsd; // forwarding settlement document
+    const float lsp;  // logistics service provider
+    const float otr;  // order-based transportation requirement
+    const float pi;   // process integration
+    const float ses;  // service entry sheet
+    const float trq;  // transportation requirement
+    const float vsr;  // vehicle scheduling and routing
     
     return 0;
 }
