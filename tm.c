@@ -36,7 +36,6 @@ int main() {
     float pi;   // process integration
     float ses;  // service entry sheet
     float trq;  // transportation requirement
-    float ui;   // user interface
     float vsr;  // vehicle scheduling and routing
     
     return 0;
