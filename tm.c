@@ -21,6 +21,7 @@ int main() {
     const float abd;   // Agency Business Document
     const float cass;  // Cargo Account Settlement System
     const float crm;   // Customer Relationship Management
+    const float cif;   // Core Interface
     const float dtr;   // Delivery-based Transportation Requirement
     const float ecc;   // ERP Core Component
     const float fa;    // Freight Agreement
