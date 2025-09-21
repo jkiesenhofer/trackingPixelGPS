@@ -13,6 +13,7 @@
 #include <stdio.h>
 
 int main() {
+    
     // Print a character
     printf("~\n");
 
