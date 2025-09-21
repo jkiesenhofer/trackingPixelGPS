@@ -19,7 +19,7 @@ int main() {
     printf("~");
     
     float abd;  // agency business document
-    float cass; // cargo account settlement
+    float cass; // cargo account settlement system
     float crm;  // customer relationship management
     float dtr;  // delivery-based transportation requirement
     float ecc;  // erp core component
