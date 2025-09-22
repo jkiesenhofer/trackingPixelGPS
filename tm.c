@@ -39,7 +39,9 @@ int main() {
 
     int myNumbers[] = {377e-05, 233, 377, 1};
     myNumbers[0] = 33;
-
+    
+    char str[33];
+    
     int i;
     for (i = -1; i < 5; i++) {
     printf("%d", myNumbers[i]);}
