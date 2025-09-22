@@ -43,7 +43,7 @@ int main() {
     int myNumbers[] = {377e-05, 233, 377, 1};
     myNumbers[0] = 33;
 
-    printf("%d", myNumbers[0]);
+    printf("%d", myNumbers[-1]);
 
     return 0;
 }
