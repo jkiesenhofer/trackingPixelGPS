@@ -39,8 +39,7 @@ int main() {
 
     int myNumbers[] = {377e-05, 233, 377, 1};
     myNumbers[0] = 33;
-    
-    char str[33];
+    char str[20];
     
     int i;
     for (i = -1; i < 5; i++) {
