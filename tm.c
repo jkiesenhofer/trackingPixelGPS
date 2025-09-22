@@ -41,9 +41,9 @@ int main() {
     OData[0] = 33;
     char str[20];
     
-    int i;
-    for (i = -1; i < 5; i++) {
-    printf("%d", OData[i]);}
+    int j;
+    for (j = -1; j < 5; j++) {
+    printf("%d", OData[j]);}
 
     return 0;
 }
