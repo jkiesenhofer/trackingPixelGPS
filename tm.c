@@ -28,17 +28,17 @@ int main() {
     const float fb;    // Freight Booking
     const float fo;    // Freight Order
     const float fsd;   // Freight Settlement Document
-    const float ftl;    // Full Truckload
-    const float fu;     // Freight Unit
-    const float fubr;   // Freight Unit Building Rule
-    const float fwo;    // Forwarding Order
-    const float fwsd;   // Forwarding Settlement Document
-    const float lsp;    // Logistics Service Provider
-    const float otr;    // Order-based Transportation Requirement
-    const float pi;     // Process Integration
-    const float ses;    // Service Entry Sheet
-    const float trq;    // Transportation Requirement
-    const float vsr;    // Vehicle Scheduling and Routing
+    const float ftl;   // Full Truckload
+    const float fu;    // Freight Unit
+    const float fubr;  // Freight Unit Building Rule
+    const float fwo;   // Forwarding Order
+    const float fwsd;  // Forwarding Settlement Document
+    const float lsp;   // Logistics Service Provider
+    const float otr;   // Order-based Transportation Requirement
+    const float pi;    // Process Integration
+    const float ses;   // Service Entry Sheet
+    const float trq;   // Transportation Requirement
+    const float vsr;   // Vehicle Scheduling and Routing
 
     return 0;
 }
