@@ -7,7 +7,7 @@ df = pd.read_csv('SAPrules.xml')
 array = df.values.tolist() # xml-list
 lines=1236
 b=array[0:lines]
-b.append('Dii')
+b.append('cd')
 
 #print(b[10:20])
 n=df.to_string()
