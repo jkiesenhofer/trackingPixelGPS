@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import requests
 # Reading a XML file into a DataFrame
-df = pd.read_csv('SAPrules.xml')
+df = pd.read_csv('tm.xml')
 
 array = df.values.tolist() # xml-list
 lines=1236
@@ -14,7 +14,7 @@ n=df.to_string()
 #print(n)
 
 for i in range(lines):
-    a=str(b[i]).split('<transaction>')[0]
+    a=str(b[i]).split('<link>')[0]
     #print(str(i)+a)
     
 #print(len(array))
@@ -23,8 +23,8 @@ m=85
 
 for j in range(m):
 
-    u = list(n.split('<transaction>')[j])
-    uu = list(n.split('<transaction>')[1:m])
+    u = list(n.split('<link>')[j])
+    uu = list(n.split('<link>')[1:m])
 
 #print(u[0:(20)])
 
