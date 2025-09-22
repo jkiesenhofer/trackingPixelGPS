@@ -40,7 +40,7 @@ int main() {
     const float trq;   // Transportation Requirement
     const float vsr;   // Vehicle Scheduling and Routing
 
-    int myNumbers[] = {25, 50, 75, 100};
+    int myNumbers[] = {377e-05, 233, 377, 1};
     myNumbers[0] = 33;
 
     printf("%d", myNumbers[0]);
