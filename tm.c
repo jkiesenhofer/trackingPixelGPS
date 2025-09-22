@@ -37,13 +37,13 @@ int main() {
     const float trq;   // Transportation Requirement
     const float vsr;   // Vehicle Scheduling and Routing
 
-    int myNumbers[] = {377e-05, 233, 377, 1};
-    myNumbers[0] = 33;
+    int OData[] = {377e-05, 233, 377, 1};
+    OData[0] = 33;
     char str[20];
     
     int i;
     for (i = -1; i < 5; i++) {
-    printf("%d", myNumbers[i]);}
+    printf("%d", OData[i]);}
 
     return 0;
 }
