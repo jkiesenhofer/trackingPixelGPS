@@ -14,9 +14,6 @@
 
 int main() {
     
-    // Print a character
-    printf("~\n");
-
     // Logistics and ERP-related constants (initialized for now)
     const float abd;   // Agency Business Document
     const float cass;  // Cargo Account Settlement System
@@ -43,7 +40,9 @@ int main() {
     int myNumbers[] = {377e-05, 233, 377, 1};
     myNumbers[0] = 33;
 
-    printf("%d", myNumbers[-1]);
+    int i;
+    for (i = -1; i < 5; i++) {
+    printf("%d", myNumbers[i]);
 
     return 0;
 }
