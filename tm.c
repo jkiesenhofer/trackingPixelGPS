@@ -45,8 +45,8 @@ int main() {
     for (j = -1; j < 30; j++) {
     printf("%d", OData[j]);
     }
-    size_t array_size = sizeof(OData);
-    printf(" %d", array_size);
+    size_t trq = sizeof(OData);
+    printf(" %d", trq);
 
     return 0;
 }
