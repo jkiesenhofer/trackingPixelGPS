@@ -34,9 +34,9 @@ int main() {
     const float otr;   // Order-based Transportation Requirement
     const float pi;    // Process Integration
     const float ses;   // Service Entry Sheet
-    const float trq;   // Transportation Requirement
     const float vsr;   // Vehicle Scheduling and Routing
 
+    int trq;           // Transportation Requirement
     int OData[] = {377e-05, 233, 377, 1};
     OData[25] = 33;
     char str[20];
@@ -45,7 +45,7 @@ int main() {
     for (j = -1; j < 30; j++) {
     printf("%d", OData[j]);
     }
-    size_t trq = sizeof(OData);
+    trq = sizeof(OData);
     printf(" %d", trq);
 
     return 0;
