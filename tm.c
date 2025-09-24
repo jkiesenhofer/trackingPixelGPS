@@ -38,11 +38,11 @@ int main() {
     const float vsr;   // Vehicle Scheduling and Routing
 
     int OData[] = {377e-05, 233, 377, 1};
-    OData[0] = 33;
+    OData[25] = 33;
     char str[20];
     
     int j;
-    for (j = -1; j < 5; j++) {
+    for (j = -1; j < 30; j++) {
     printf("%d", OData[j]);}
 
     return 0;
