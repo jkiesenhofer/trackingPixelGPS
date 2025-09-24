@@ -43,7 +43,10 @@ int main() {
     
     int j;
     for (j = -1; j < 30; j++) {
-    printf("%d", OData[j]);}
+    printf("%d", OData[j]);
+    }
+    size_t array_size = sizeof(OData);
+    printf(" %d", array_size);
 
     return 0;
 }
