@@ -35,7 +35,6 @@ int main() {
     const float pi;    // Process Integration
     const float ses;   // Service Entry Sheet
     const float vsr;   // Vehicle Scheduling and Routing
-
     int trq;           // Transportation Requirement
     int OData[] = {377e-05, 233, 377, 1};
     OData[25] = 33;
