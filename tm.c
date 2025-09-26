@@ -41,10 +41,10 @@ int main() {
     OData[25] = 33;
     char str[20];
     
-    int x = 20;
-    int* p = &x;
+    int k = 20;
+    int* p = &k;
     int** a = &p;
-    printf("x: %d\n", x);
+    printf("k: %d\n", k);
     printf("p: %d\n", p);
     printf("*p: %d\n", *p);
     printf("a: %d\n", a);
