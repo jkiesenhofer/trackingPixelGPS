@@ -50,7 +50,7 @@ int main() {
 
     FILE *fp = fopen("IParray.csv", "r");
     if (!fp) {
-        printf("Datei kann nicht geöffnet werden\n");
+        printf("File cannot be opened\n");
         return 1;
     }
     char buf[1024];
