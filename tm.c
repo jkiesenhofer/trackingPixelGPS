@@ -43,7 +43,8 @@ int main() {
     
     int k = 20;
     int* p = &k;
-    int** a = &p; // double-level pointer a which points to a pointer to an integer
+    int** a = &p;
+    // double-level pointer a which points to a pointer to an integer
     printf("k: %d\n", k);
     printf("p: %d\n", p);
     printf("*p: %d\n", *p);
