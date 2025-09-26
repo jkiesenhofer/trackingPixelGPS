@@ -55,7 +55,7 @@ int main() {
     }
     char buf[1024];
     while (fgets(buf, 1024, fp)) {
-        char *field = strtok(buf, "s");
+        char .field = strtok(buf, "s");
         while(field) {
             printf("%s\n", field);
             field = strtok(NULL, "s");
