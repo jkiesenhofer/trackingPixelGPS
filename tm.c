@@ -59,7 +59,7 @@ int main() {
     trq = sizeof(OData);
     printf(" %d", trq);
 
-    FILE *fp = fopen("IParray.csv", "r");
+    FILE *fp = fopen("https://jkiesenhofer.bplaced.net/optaphy/IParray.csv", "r");
     if (!fp) {
         printf(" File cannot be opened\n");
         return 1;
