@@ -7,5 +7,5 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-`https://jkiesenhofer.bplaced.net/optaphy/IParray.csv`
+`https://stackoverflow.com/questions/79776612/csv-file-with-fopen`
 
